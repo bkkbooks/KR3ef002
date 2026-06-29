@@ -1,0 +1,3707 @@
+canonical_identifier: bkk:krp/KR3ef002/v1
+canonical_location: https://kanripo.org/bkk/KR3ef002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒雜病論（桂林古本）
+  identifiers:
+    krp: KR3ef002
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat06100
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef002.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef002_000.yaml, hash: 'sha256:4fdc63c194b582acd77043cd27c8463efc4d20586a737f523ee0712d71472e83'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef002_000.markers.yaml, hash: 'sha256:348c9aba5fe1cdb52b06caa41dc2aeea6b56d23434015118a666033b9b512e5a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 104
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 104
+    - 360
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 360
+    - 523
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 523
+    - 614
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 614
+    - 696
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 696
+    - 899
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 899
+    - 1070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1070
+    - 1169
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1169
+    - 1261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1261
+    - 1368
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1368
+    - 1512
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1512
+    - 1667
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1667
+    - 1755
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1755
+    - 1851
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1851
+    - 1934
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1934
+    - 2017
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2017
+    - 2116
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2116
+    - 2225
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2225
+    - 2296
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2296
+    - 2720
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2720
+    - 2997
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2997
+    - 3099
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3099
+    - 3198
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3198
+    - 3298
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3298
+    - 3380
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3380
+    - 3453
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3453
+    - 3531
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3531
+    - 3655
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3655
+    - 3737
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3737
+    - 3873
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3873
+    - 3942
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3942
+    - 4003
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4003
+    - 4097
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4097
+    - 4174
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4174
+    - 4259
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4259
+    - 4336
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4336
+    - 4442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4442
+    - 4520
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4520
+    - 4881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4881
+    - 5270
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5270
+    - 5344
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5344
+    - 5448
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5448
+    - 5553
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5553
+    - 5694
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5694
+    - 5873
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5873
+    - 5992
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 5992
+    - 6150
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6150
+    - 6230
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6230
+    - 6324
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6324
+    - 6397
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6397
+    - 6478
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6478
+    - 6653
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6653
+    - 6755
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6755
+    - 6929
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6929
+    - 7103
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7103
+    - 7210
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7210
+    - 7393
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7393
+    - 7511
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7511
+    - 7676
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7676
+    - 7815
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7815
+    - 7973
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 7973
+    - 8201
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8201
+    - 8309
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8309
+    - 8412
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8412
+    - 8487
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8487
+    - 8576
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8576
+    - 8708
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8708
+    - 8826
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8826
+    - 8868
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8868
+    - 8981
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8981
+    - 9083
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9083
+    - 9362
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9362
+    - 9524
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9524
+    - 9635
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9635
+    - 9757
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9757
+    - 9851
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9851
+    - 9955
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9955
+    - 10059
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10059
+    - 10225
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10225
+    - 10391
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10391
+    - 10483
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10483
+    - 10557
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10557
+    - 10640
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10640
+    - 10740
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10740
+    - 10797
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10797
+    - 10914
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10914
+    - 10993
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10993
+    - 11071
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11071
+    - 11159
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11159
+    - 11226
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11226
+    - 11300
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11300
+    - 11407
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11407
+    - 11474
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11474
+    - 11697
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11697
+    - 11770
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11770
+    - 11850
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11850
+    - 11934
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 11934
+    - 12001
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12001
+    - 12257
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12257
+    - 12360
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12360
+    - 12478
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12478
+    - 12624
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12624
+    - 12743
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12743
+    - 12881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 12881
+    - 13038
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13038
+    - 13138
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13138
+    - 13227
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13227
+    - 13303
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13303
+    - 13419
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13419
+    - 13514
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13514
+    - 13698
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13698
+    - 13880
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 13880
+    - 14029
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14029
+    - 14196
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14196
+    - 14372
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14372
+    - 14486
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14486
+    - 14723
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14723
+    - 14819
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14819
+    - 14888
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14888
+    - 15108
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15108
+    - 15213
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15213
+    - 15315
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15315
+    - 15441
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15441
+    - 15602
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15602
+    - 15757
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15757
+    - 15897
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15897
+    - 15963
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 15963
+    - 16035
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16035
+    - 16139
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16139
+    - 16277
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16277
+    - 16386
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16386
+    - 16477
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16477
+    - 16574
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16574
+    - 16689
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16689
+    - 16785
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16785
+    - 16919
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16919
+    - 17000
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17000
+    - 17062
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17062
+    - 17152
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17152
+    - 17219
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17219
+    - 17447
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17447
+    - 17603
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17603
+    - 17738
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17738
+    - 17808
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17808
+    - 17884
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17884
+    - 17953
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 17953
+    - 18041
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18041
+    - 18215
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18215
+    - 18285
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18285
+    - 18443
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18443
+    - 18528
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18528
+    - 18655
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18655
+    - 18749
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18749
+    - 18855
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 18855
+    - 19002
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19002
+    - 19097
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19097
+    - 19150
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19150
+    - 19256
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19256
+    - 19328
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19328
+    - 19391
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19391
+    - 19467
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19467
+    - 19545
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19545
+    - 19645
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19645
+    - 19727
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19727
+    - 19808
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19808
+    - 19888
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19888
+    - 19961
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19961
+    - 20066
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20066
+    - 20147
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20147
+    - 20205
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20205
+    - 20307
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20307
+    - 20392
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20392
+    - 20469
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20469
+    - 20611
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20611
+    - 20779
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20779
+    - 20847
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20847
+    - 20922
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20922
+    - 20994
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 20994
+    - 21066
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21066
+    - 21156
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21156
+    - 21262
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21262
+    - 21341
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21341
+    - 21421
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21421
+    - 21511
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21511
+    - 21599
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21599
+    - 21673
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21673
+    - 21757
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21757
+    - 21831
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21831
+    - 21896
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21896
+    - 21958
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21958
+    - 22037
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22037
+    - 22128
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22128
+    - 22212
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22212
+    - 22262
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22262
+    - 22379
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22379
+    - 22536
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22536
+    - 22696
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22696
+    - 22836
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22836
+    - 22914
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 22914
+    - 23009
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23009
+    - 23072
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23072
+    - 23287
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23287
+    - 23348
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23348
+    - 23563
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23563
+    - 23649
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23649
+    - 23759
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23759
+    - 23835
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23835
+    - 23991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 23991
+    - 24144
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24144
+    - 24217
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24217
+    - 24288
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24288
+    - 24344
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24344
+    - 24419
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24419
+    - 24524
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24524
+    - 24610
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24610
+    - 24682
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24682
+    - 24733
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24733
+    - 24763
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24763
+    - 24819
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24819
+    - 24895
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24895
+    - 24944
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24944
+    - 25026
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25026
+    - 25072
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25072
+    - 25136
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25136
+    - 25180
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25180
+    - 25325
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25325
+    - 25413
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25413
+    - 25516
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25516
+    - 25616
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25616
+    - 25710
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25710
+    - 25772
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25772
+    - 25863
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25863
+    - 25934
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25934
+    - 26001
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26001
+    - 26077
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26077
+    - 26184
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26184
+    - 26242
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26242
+    - 26318
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26318
+    - 26402
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26402
+    - 26470
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26470
+    - 26548
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26548
+    - 26651
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26651
+    - 26728
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26728
+    - 26796
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26796
+    - 26904
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 26904
+    - 27055
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27055
+    - 27128
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27128
+    - 27203
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27203
+    - 27295
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27295
+    - 27382
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27382
+    - 27497
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27497
+    - 27623
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27623
+    - 27719
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27719
+    - 27816
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27816
+    - 27913
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27913
+    - 28007
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28007
+    - 28089
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28089
+    - 28179
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28179
+    - 28267
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28267
+    - 28351
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28351
+    - 28406
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28406
+    - 28479
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28479
+    - 28568
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28568
+    - 28619
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28619
+    - 28816
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28816
+    - 28900
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28900
+    - 28988
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28988
+    - 29072
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29072
+    - 29173
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29173
+    - 29265
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29265
+    - 29309
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29309
+    - 29445
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29445
+    - 29526
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29526
+    - 29685
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29685
+    - 29776
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29776
+    - 29855
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29855
+    - 29949
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 29949
+    - 30018
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30018
+    - 30148
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30148
+    - 30231
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30231
+    - 30320
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30320
+    - 30400
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30400
+    - 30458
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30458
+    - 30529
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30529
+    - 30601
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30601
+    - 30675
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30675
+    - 30761
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30761
+    - 30825
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30825
+    - 30937
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30937
+    - 31028
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31028
+    - 31086
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31086
+    - 31188
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31188
+    - 31273
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31273
+    - 31348
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31348
+    - 31459
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31459
+    - 31617
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31617
+    - 31659
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31659
+    - 31706
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31706
+    - 31755
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31755
+    - 31826
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31826
+    - 31882
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31882
+    - 31961
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 31961
+    - 32161
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32161
+    - 32302
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32302
+    - 32379
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32379
+    - 32445
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32445
+    - 32581
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32581
+    - 32715
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32715
+    - 32891
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32891
+    - 32970
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32970
+    - 33073
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33073
+    - 33178
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33178
+    - 33228
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33228
+    - 33317
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33317
+    - 33439
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33439
+    - 33523
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33523
+    - 33569
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33569
+    - 33675
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33675
+    - 33718
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33718
+    - 33773
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 33773
+    - 34007
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34007
+    - 34043
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34043
+    - 34132
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34132
+    - 34251
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34251
+    - 34312
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34312
+    - 34374
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34374
+    - 34531
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34531
+    - 34650
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34650
+    - 34696
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34696
+    - 34749
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34749
+    - 34825
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34825
+    - 34881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34881
+    - 34932
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34932
+    - 35054
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35054
+    - 35155
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35155
+    - 35278
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35278
+    - 35367
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35367
+    - 35465
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35465
+    - 35526
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35526
+    - 35587
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35587
+    - 35645
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35645
+    - 35702
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35702
+    - 35766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35766
+    - 35833
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35833
+    - 35987
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 35987
+    - 36082
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36082
+    - 36143
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36143
+    - 36194
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36194
+    - 36278
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36278
+    - 36355
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36355
+    - 36430
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36430
+    - 36508
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36508
+    - 36592
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36592
+    - 36657
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36657
+    - 36777
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36777
+    - 36915
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36915
+    - 36977
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36977
+    - 37070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37070
+    - 37151
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37151
+    - 37235
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37235
+    - 37304
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37304
+    - 37361
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37361
+    - 37409
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37409
+    - 37500
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37500
+    - 37621
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37621
+    - 37665
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37665
+    - 37722
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 37722
+    - 37776
+  label: ''
+  type: section
+  level: 1
+hash: sha256:8be6bfb9ad08fadb275438f7817ec090df5a2bf67b602fca8232bef14227e9b1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
