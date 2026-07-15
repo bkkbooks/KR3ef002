@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef002/v1
 canonical_location: https://kanripo.org/bkk/KR3ef002/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒雜病論（桂林古本）
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef002_000.yaml, hash: 'sha256:75262473f5dae965bb841e53cedc3765069d2f62a572bd677ac78c420c8edb84'}
+  - {seq: 0, filename: KR3ef002_000.yaml, hash: 'sha256:9d139f84255d973eaddcc128c852af3593ea1211045a8a3246926f18bcb41e1f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef002_000.markers.yaml, hash: 'sha256:8bc54d7395ba46b2e0b62e70376173411b15611332aebf666efb9b76a5a7931c'}
+  - {seq: 0, role: markers, filename: assets/KR3ef002_000.markers.yaml, hash: 'sha256:0eaf02bee1cfb2163d0836e7dce70d26511daac7497c3efa65996ee1b5efdf3f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -3701,4 +3701,7 @@ table_of_contents:
   label: ''
   type: section
   level: 1
-hash: sha256:f723ad3dee2aefcd397b9e74dac24020b3f7438afff2a135daa5760ce0addcbf
+hash: sha256:d0fe5a3cb58665745c704f11f4f554e6e6504ea2daabb6164b75ea88e3073c30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
